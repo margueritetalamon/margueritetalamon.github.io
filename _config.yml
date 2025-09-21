@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Louis Montaut"
+title                    : "Marguerite Petit Talamon"
 title_separator          : "-"
-name                     : &name "Louis Montaut"
+name                     : &name "Marguerite Petit Talamon"
 description              : &description "personal description"
-url                      : https://lmontaut.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mpt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lmontaut/lmontaut.github.io"
+repository               : "margueritetalamon/mpt.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "main" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Louis Montaut"
+  name             : "Marguerite Petit Talamon"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral researcher - Willow team at Inria - Physics simulation, optimization, robotics"
-  location         : "Inria, Paris"
+  bio              : "Phd student at CREST - ENSAE under the supervision of Anna Korba"
+  location         : "CREST, Paris"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=iN41GLwAAAAJ&hl=en&oi=ao"
-  email            : "louis.montaut@inria.fr, louis.montaut@cvut.cz"
+  googlescholar    : ""
+  email            : "marguerite.petittalamon@ensae.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lmontaut"
+  github           : "margueritetalamon"
   google_plus      :
   keybase          :
   instagram        :
