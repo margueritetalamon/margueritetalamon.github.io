@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "main" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -86,8 +86,8 @@ author:
   location         : "CREST, Paris"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=iN41GLwAAAAJ&hl=en&oi=ao"
-  email            : "louis.montaut@inria.fr, louis.montaut@cvut.cz"
+  googlescholar    : ""
+  email            : ""
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
