@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Since January 2025, I am a postdoc researcher at [Inria](https://www.inria.fr/fr/centre-inria-de-paris) Paris, [Willow team](https://www.di.ens.fr/willow/).
-My thesis, [Algorithmic and Computational Foundations of Differentiable Collision Detection](https://inria.hal.science/tel-05004546), was supervised by [Josef Sivic (CTU Prague)](https://www.di.ens.fr/~josef/), [Vladimir Petrik (CTU Prague)](https://petrikvladimir.github.io/) and [Justin Carpentier (INRIA Paris)](https://jcarpent.github.io/).
-Before that, I received a Master's degree from [ENPC](https://ecoledesponts.fr/) Paris in [Computer Science and Applied Mathematics](https://www.master-mva.com/).
 
-My research focuses on (differentiable) physics simulation and mathematical optimization in the context of robotics.
+Since November 2024, I am a working with [Anna Korba](https://akorba.github.io) as a research assistant at [CREST](https://crest.science) in Paris. I will begin my PhD there in October 2025 under her supervision.
+
+My research focus on optimization problems in the Wasserstein space. I am currently working on variational inference with mixtures of Gaussians. 
 
 Publications
 ======
+- [Variational Inference with Mixture of Isotropic Gaussians](https://arxiv.org/abs/2506.13613). Marguerite Petit Talamon, Marc Lambert, Anna Korba. Published at  the Thirty-Ninth Annual Conference on Neural Information Processing Systems (Neurips) 2025. 

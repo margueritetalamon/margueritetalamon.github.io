@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Marguerite Petit Talamon"
+title                    : "Marguerite Petit-Talamon"
 title_separator          : "-"
 name                     : &name "Marguerite Petit Talamon"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Marguerite Petit Talamon"
-  avatar           : "profile.jpg"
+  name             : "Marguerite Petit-Talamon"
+  avatar           : "https://scholar.google.com/citations?user=_prCci4AAAAJ&hl=en&oi=sra"
   bio              : "Phd student in mathematics and machine learning at CREST (ENSAE) under the supervision of Anna Korba"
   location         : "CREST, Paris"
   employer         :
