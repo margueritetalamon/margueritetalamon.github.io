@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Marguerite Petit-Talamon"
-  avatar           : "https://scholar.google.com/citations?user=_prCci4AAAAJ&hl=en&oi=sra"
+  avatar           : ""
   bio              : "Phd student in mathematics and machine learning at CREST (ENSAE) under the supervision of Anna Korba"
   location         : "CREST, Paris"
   employer         :
   pubmed           :
-  googlescholar    : ""
-  email            : ""
+  googlescholar    : "https://scholar.google.com/citations?user=_prCci4AAAAJ&hl=en&oi=sra"
+  email            : "marguerite.petittalamon@ensae.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
