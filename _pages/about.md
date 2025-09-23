@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Since November 2024, I am a working with [Anna Korba](https://akorba.github.io) as a research assistant at [CREST](https://crest.science) in Paris. I will begin my PhD there in October 2025 under her supervision.
+Since November 2024, I am working with [Anna Korba](https://akorba.github.io) as a research assistant at [CREST](https://crest.science) in Paris. I will begin my PhD there in October 2025 under her supervision.
 
 My research focus on optimization problems in the Wasserstein space. I am currently working on variational inference with mixtures of Gaussians. 
 
