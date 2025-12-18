@@ -1,4 +1,4 @@
---
+---
 title: "Statistique 1 ENSAE (2A)"
 collection: teaching
 ---
