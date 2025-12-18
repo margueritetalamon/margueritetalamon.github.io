@@ -18,7 +18,8 @@ Publications
 - [Variational Inference with Mixture of Isotropic Gaussians](https://arxiv.org/abs/2506.13613). Marguerite Petit-Talamon, Marc Lambert, Anna Korba. Published at the Thirty-Ninth Annual Conference on Neural Information Processing Systems (Neurips) 2025. 
 
 ## Teaching
-{% for course in site.teaching %}
+{% assign courses = site.teaching | sort: "title" %}
+{% for course in courses %}
 ### {{ course.title }}
 {{ course.content }}
 {% endfor %}
